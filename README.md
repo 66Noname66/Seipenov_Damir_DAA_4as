@@ -41,9 +41,3 @@ java -cp target/classes daa.ExperimentRunner
 ### Results
 
 The experiment generates results/results.csv.
-
-### AI-use acknowledgement
-
-AI tools were used to assist with project structure,
-code drafting, testing and documentation.
-All implementations were reviewed and tested by the student.
